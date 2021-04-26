@@ -27,3 +27,7 @@
 * Support Flutter v1.12.13+ Plugins 
 * Use Symbology enums on return
 * Better exception management
+
+## 0.1.0+1
+
+* Update iOS setup
