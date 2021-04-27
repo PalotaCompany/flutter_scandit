@@ -31,3 +31,7 @@
 ## 0.1.0+1
 
 * Update iOS setup
+
+## 0.1.0+2
+
+* **fix:** Use newer iOS Swift `UIEdgeInsets.init`
