@@ -5,6 +5,13 @@
 Flutter Plugin for [Scandit](https://www.scandit.com/) Barcode Scanning
 
 
+## :warning: Maintenance Notice :warning:
+
+This is an unofficial project and is not under active maintenance. Scandit now has official Flutter support, see below links:
+- [Official Documentation](https://docs.scandit.com/data-capture-sdk/flutter/)
+- [Official pub.dev](https://pub.dev/publishers/scandit.com/packages)
+- [Official GitHub repo](https://github.com/Scandit/datacapture-flutter-samples)
+
 ## Getting Started
 
 Check out the [example](https://github.com/PalotaCompany/flutter_scandit/tree/master/example) directory for a sample app using Firebase Cloud Messaging.
